@@ -2,7 +2,7 @@
 July 14th, 2019
 
 ### Project Title
-Replace the Project Title
+Udacity's Introduction to Version Control 
 
 ### Description
 Describe what your project is about and what it does
