@@ -5,7 +5,7 @@ July 14th, 2019
 Udacity's Introduction to Version Control 
 
 ### Description
-Describe what your project is about and what it does
+This project is the final test of an online course
 
 ### Files used
 Include the files used
