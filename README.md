@@ -11,5 +11,5 @@ This project is the final test of an online course
 Files used are: bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+For this project I didn't consult anything but Udacity's course :D
 
