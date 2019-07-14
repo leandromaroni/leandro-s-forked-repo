@@ -2,7 +2,7 @@
 July 14th, 2019
 
 ### Project Title
-Udacity's Introduction to Version Control 
+Udacity's "Explore US Bikeshare Data"
 
 ### Description
 This project is the final test of an online course
